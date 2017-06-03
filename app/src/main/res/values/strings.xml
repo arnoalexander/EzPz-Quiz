@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ezpz Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="question1">1 + 1 = …</string>
+    <string name="question1_choice1">1</string>
+    <string name="question1_choice2">2</string>
+    <string name="question1_choice3">3</string>
+    <string name="question1_choice4">4</string>
+    <string name="question2">Select the names of released Android versions!</string>
+    <string name="question2_choice1">KitKat</string>
+    <string name="question2_choice2">Lollipop</string>
+    <string name="question2_choice3">Martabak</string>
+    <string name="question2_choice4">Nugget</string>
+    <string name="question3">What is the capital city of this country?</string>
+    <string name="question3_choice1">Jakarta</string>
+    <string name="question3_choice2">Ottawa</string>
+    <string name="question3_choice3">Stockholm</string>
+    <string name="question3_choice4">Santiago</string>
+    <string name="question4">Droid buys two equal packs of candies with the money he has been collected
+        for years in his piggy bank. Unfortunately, after he goes out from the store, he get robbed
+        by five candy muggers. Each of the muggers steals six candies. Of course, Droid is sad because
+        he has only two candies left. But, the saddest thing is he don\'t know how many candies are
+        there in one full pack. Help him find the answer! Write in decimal.</string>
+    <string name="question5">Select the feline family members!</string>
+    <string name="question6">Having depth more than 10 km, it is the deepest known point below ocean
+        surface. What is its name? Write in lowercase.</string>
+    <string name="question7">Jack Sparrow has just discovered a treasure map in the coast of Bermuda.
+        But, his celebration didn\'t last long. He realized that his ship and all the crew are
+        suddenly disappeared (it\'s normal here) right after he took a shot of tequila while sitting on
+        white soft Caribbean beach sand. Surprisingly, he was not surprised. Apparently, his mind
+        was still scrambled by the problem he found on that map. There are 13 golden chests located
+        in that island. Each chest can only be discovered at most once. Otherwise, it might disappear
+        into nothing but disappointment (remember, it\'s Bermuda). So, the plan is he want to take
+        shortest route that visit each chest once and go back to this beautiful beach as soon as
+        possible before sunset. What\'s the name of this problem?</string>
+    <string name="question7_choice1">Bermuda Treasure Problem</string>
+    <string name="question7_choice2">Lost Pirate Problem</string>
+    <string name="question7_choice3">Jack Sparrow\'s Treasure Problem</string>
+    <string name="question7_choice4">Travelling Salesman Problem</string>
+    <string name="question8">These countries have blue color in their flags</string>
+    <string name="question8_choice1">Canada</string>
+    <string name="question8_choice2">Singapore</string>
+    <string name="question8_choice3">Netherlands</string>
+    <string name="question8_choice4">South Africa</string>
+</resources>
